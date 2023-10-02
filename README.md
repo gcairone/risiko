@@ -1,4 +1,4 @@
-# risiko
+# Risiko Board Game Backend
 This repository contains the Python backend implementation for the classic board game "Risiko" Please note that this project is a work in progress, and there may be bugs or incomplete features.
 
 

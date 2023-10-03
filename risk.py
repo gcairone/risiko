@@ -4,21 +4,6 @@ import random as rd
 # la classe networkx non sarebbe strettamente necessaria per i grafi, pero' puo' servire per diverse analytics
 
 
-# sistemare attacco, vince sempre l'attacco
-# spostamenti
-# nella reinforce, anche qundo il rinforza fallisce, vengono tolte le carte 
-"""
-Elenco:
-- Controllare il rinforzo
-- Obiettivi, mettere alla fine di ogni attacco una funzione che verifica se qualche obiettivo e' stato raggiunto
-- Verificare cosa succede quando un giocatore viene eliminato
-
-
-- fare in modo che il fallimento di un'operazione ti restituisca qualcosa, anche la stop, anche attack
-- la stampa pl deve dare anche il numero di tanks in ogni territorio
-
-"""
-
 
 # classe giocatore, instanziare con nome, contiene una lista di territori posseduti (scelta all-inizio e variabile
 # attraverso le conquiste), contiene una lista di carte territorio che serve per i rinforzi
